@@ -123,8 +123,8 @@ While we have a number of prefixes that are not accepted, we do allow the use of
 * `Umbraco__CMS__Integrations`
 * `Umbraco__CMS__DeliveryAPI`
 
-It is also possible to use Secrets to save API keys, Passwords, and ReChaptcha for all our Umbraco products on Umbraco Cloud.
+It is also possible to use Secrets to save API keys, Passwords, and ReCaptcha for all our Umbraco products on Umbraco Cloud.
 
 Do you have an existing or new secret that you want to add to a key vault that conflicts with the name restrictions?
 
-Then please contact Umbraco support, then we will then consider it as soon as possible.\\
+Then please contact Umbraco support, then we will then consider it as soon as possible.
